@@ -1,0 +1,25 @@
+.front img{
+  border: 10px solid black;
+  width: 6vw;
+  height: auto;
+}
+
+.front h1{
+  font-size: 5vw;
+  text-align: center;
+  font-family: "Comic Sans MS";
+}
+
+.front {
+  display: flex;
+  align-items: center;
+  gap: 2vw;
+  justify-content: center;
+}
+
+.front2 h3{
+  text-align: center;
+  margin-top: 0;
+  position: relative;
+  bottom: 3vw;
+}
